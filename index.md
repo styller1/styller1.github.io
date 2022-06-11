@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/styller1/styller1.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Meu amor
+========
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Carta para o meu amor
+=====================
 
-### Markdown
+Pode não ser uma carta fofinha e bonitinha como se espera deste dia kkkkk, mas eis aqui um inicio de um futuro que almejo, um futuro que me permita está ao seu lado sempre e sempre lhe ver sorrir esse belo sorriso, e que em todos os dias sejamos gratos a Deus pois Ele tem derramado de suas bênçãos sobre nós, Orei e pedi por uma esposa, por uma companheira, por uma amiga e eis que nosso Pai me trouxe tudo o que eu pedi e muito mais, pois ele é grande e poderoso e faz por nós muito mais do que pedimos e merecemos, vc é mais do que eu mereço vc é mais do que eu podia pedir, como a gente sempre fala entre si, faz só 2 meses?? realmente não parece, pra mim fazem pelo menos 2 anos que estamos juntos, e espero que falam muito mais que 20, desejo ver todas as suas conquista e está ao seu lado a cada uma delas, sei que vou poder dizer e me orgulha de ser seu par, pois vejo em você todas as qualidades de uma mulher virtuosa, de uma mãe segundo a palavra do nosso Pai, de uma serva que se coloca a serviço naquilo que nos ensinou o Senhor, grandes coisas tem feito o Senhor por nós por isso estamos alegres, grandes crescimentos espirituais temos experimentado, desejo que para sempre eu possa está ao seu lado, desejo olhar e ver o quanto essa linda rosa que es crescer e desflorar espalhando o seu maravilhoso aroma e com sua beleza encantar a todos os olhares, pois fomos feitos um pouco menos esplendorosos que os anjos do céu e certamente a beleza da criação compete com a sua, embora, seja uma competição injusta pois fostes feita muito mais linda que as demais criações. Se o dom de pintar me fosse dado, ainda que eu pintasse todos os fenômenos maravilhosos da realidade, todas as estrelas do céu n seriam brilhantes o suficiente para poder representar o brilho do seu sorriso, o calor do seu amor e a vastidão de nosso amor.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  
 
-```markdown
-Syntax highlighted code block
+EU TE AMO MUITO
 
-# Header 1
-## Header 2
-### Header 3
+[ver mais](https://ibb.co/94hfPSB)
 
-- Bulleted
-- List
+ASS: Seu amor Pablo
+-------------------
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/styller1/styller1.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Pablo Craveiro, Todos os Direitos Reservados!
